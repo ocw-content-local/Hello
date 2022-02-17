@@ -7,3 +7,11 @@ leftnav:
   name: nice
   url: /pages/knqkfjnkjn
   weight: 20
+- identifier: 43a71df9-6591-41e9-b215-a4dcfa58e56f
+  name: page 4
+  url: /pages/page-4-draft-off
+  weight: 30
+- identifier: 13a11feb-86b4-4f5b-b349-d39300e89ce0
+  name: page 3
+  url: /pages/page-3-draft-on
+  weight: 40
