@@ -3,3 +3,7 @@ leftnav:
   name: Hello
   url: /pages/jkanckaj
   weight: 10
+- identifier: 91c9d49d-4e60-4168-8b49-d130adfb4f8f
+  name: nice
+  url: /pages/knqkfjnkjn
+  weight: 20
