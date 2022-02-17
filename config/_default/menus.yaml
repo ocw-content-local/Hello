@@ -15,3 +15,7 @@ leftnav:
   name: page 3
   url: /pages/page-3-draft-on
   weight: 40
+- identifier: 6b56e39f-702b-4a97-a1e1-2dc42abfe174
+  name: page 5
+  url: /pages/page-5-draft-on
+  weight: 50
