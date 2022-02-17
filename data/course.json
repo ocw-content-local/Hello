@@ -1,0 +1,38 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "1234",
+  "instructors": {
+    "content": [],
+    "website": "Testing"
+  },
+  "course_image": {
+    "content": "",
+    "website": "Testing"
+  },
+  "course_title": "hello-world",
+  "course_description": "Hello from the other side",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "hello-1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "Testing"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples",
+    "Demonstration Audio"
+  ],
+  "site_uid": "ed6cce9c-d311-493b-a71f-a35c14597116"
+}
